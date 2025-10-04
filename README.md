@@ -1,6 +1,6 @@
 # Grimorium CLI
 
-Uma CLI modular de feitiços e ferramentas úteis para desenvolvedores.
+Uma CLI modular de "feitiços" e ferramentas úteis para desenvolvedores.
 
 ## Sobre
 
